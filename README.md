@@ -1,4 +1,4 @@
-# labb9
+# lab9
 Decision Trees & Random Forests
 
 Name: Jadi Fahad
